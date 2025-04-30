@@ -1,4 +1,1 @@
-Flask
-requests
-gunicorn
-Flask-Mail
+Flask==2.2.5
